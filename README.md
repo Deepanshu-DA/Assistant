@@ -33,12 +33,12 @@ This AI-powered chatbot provides various utilities, including weather updates, s
 
 3. Run the chatbot:  
    ```sh
-   python chatbot.py
+   python test.py
    ```
 
 ## **Requirements**  
 
-- Python 3.x  
+- Python 3.13  
 - `requests`, `pyttsx3`, `pyautogui`, `geocoder`, `nltk`, `ollama`, `webbrowser`, `subprocess`  
 
 ## **Usage**  
