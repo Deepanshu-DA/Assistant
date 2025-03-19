@@ -23,8 +23,7 @@ This AI-powered chatbot provides various utilities, including weather updates, s
 
 1. Clone the repository:  
    ```sh
-   git clone https://github.com/Deepanshu-DA/Assistan
-   cd chatbot
+   git clone https://github.com/Deepanshu-DA/Assistan.git
    ```
 
 2. Install dependencies:  
