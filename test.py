@@ -150,7 +150,7 @@ class SpeechRecognition:
 
 class WeatherAPI:
     def __init__(self):
-        self.api_key = "043ae6aa77fdde4cdfd7d2908e257453"
+        self.api_key = "EnterAPI"
         self.base_url = "https://api.openweathermap.org/data/2.5/weather"
 
     def get_weather_by_coords(self, lat, lon):
